@@ -7,3 +7,4 @@ d
 asd
 asd
 as
+span{color}
